@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jwuKqrVzcTYd2+5SFJrt0a2bMVIUx9pWyo4bsvwsnmA=",
+  "Source": "IskolaWebAPI",
+  "BasePath": "_content/IskolaWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
